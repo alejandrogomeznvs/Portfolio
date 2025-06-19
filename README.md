@@ -66,8 +66,7 @@ El contenido está en **Spanglish** 🇪🇸🇬🇧
 
 ¿Te interesa conectar, colaborar o simplemente compartir ideas?
 
-- GitHub: [@zsofiaKad](https://github.com/zsofiaKad)
-- Discord: `zsofia0668`
+- GitHub:
 - LinkedIn: [Alejandro Gómez Navas](https://www.linkedin.com/in/alejandrogomeznavas)
 
 ---
